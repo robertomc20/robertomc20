@@ -11,7 +11,7 @@ Mi principal objetivo es seguir aprendiendo y practicando con el fin de lograr s
 
 Preferencia de tecnologías / herramientas
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+
 <!--
 **robertomc20/robertomc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

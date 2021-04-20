@@ -1,6 +1,6 @@
 Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
 
-🌱 Vivo en Santiago, Chile. Egresé del instituto Duoc UC en el año 2020 de la carrea de Ingeniería Informática, y actualmente, me encuentro en la busqueda un lugar de trabajo para poder realizar mi práctica y titularme, y si es posible, continuar trabajando.
+🌱 Vivo en Santiago, Chile. Egresé del Instituto Duoc UC en el año 2020 de la carrera de Ingeniería Informática, y actualmente, me encuentro en la busqueda un lugar de trabajo para poder realizar mi práctica y titularme, y si es posible, continuar trabajando.
 
 📚 Actualmente estoy aprendiendo todo lo que abarca MEAN STACK, llevo aproximadamente 4 meses practicando realizando
 proyectos(de prácticas) y siguiendo cursos en Udemy.

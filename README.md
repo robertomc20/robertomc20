@@ -1,23 +1,26 @@
 Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
 
-🌱 Vivo en Santiago, Chile. Egresé del Instituto Duoc UC en el año 2020 de la carrera de Ingeniería Informática, y actualmente, me encuentro en la busqueda un lugar de trabajo para poder realizar mi práctica y titularme, y si es posible, continuar trabajando.
+🌱 Vivo en Santiago, Chile. Egresé del Instituto Duoc UC en el año 2020 de la carrera de Ingeniería Informática, y actualmente, me encuentro realizando mi práctica profesional en APIUX, desempeñando como Software Development.
 
-📚 Actualmente estoy aprendiendo todo lo que abarca MEAN STACK, llevo aproximadamente 4 meses practicando realizando
+📚 Estuve aprendiendo todo lo que abarca MEAN STACK, aproximadamente estuve 4 meses practicando realizando
 proyectos(de prácticas) y siguiendo cursos en Udemy.
 
-Mi principal objetivo es trabajar en lo que es el desarrollo web, junto seguir aprendiendo y practicando, con el fin de lograr ser un buen desarrollador web y profesional.
+📚 Actualmente, me encuentro estudiando y practicando lo que abarca MERN STACK, esto debido a que en donde me encuentro trabajando, me asignaron a un proyecto en donde están realizando un proyecto con React principalmente, por lo cual, me encuentro full en esto para poder integrarme al desarrollo del proyecto.
+
+Mi principal objetivo es trabajar en lo que es el desarrollo web, y en un futuro, desarrollo de apps. móvil, junto seguir aprendiendo y practicando, con el fin de lograr ser un buen desarrollador web y profesional.
 
 📚 Idiomas
   * Español nativo.
   * Ingles intermedio - avanzado.
 
 ⚡ Preferencia de tecnologías / herramientas
+  * React
   * Angular
-  * MongoDB
-  * Express
-  * NodeJS
   * JS
   * TS
+  * NodeJS
+  * MongoDB
+  * Express
   * HTML
   * CSS
  

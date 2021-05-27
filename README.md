@@ -5,7 +5,7 @@ Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
 📚 Estuve aprendiendo todo lo que abarca MEAN STACK, aproximadamente estuve 4 meses practicando realizando
 proyectos(de prácticas) y siguiendo cursos en Udemy.
 
-📚 Actualmente, me encuentro estudiando y practicando lo que abarca MERN STACK, esto debido a que en donde me encuentro trabajando, me asignaron a un proyecto en el cual están realizando un proyecto con React principalmente, por lo cual, me encuentro full en esto para poder integrarme al desarrollo del proyecto.
+📚 Actualmente, me encuentro estudiando y practicando lo que abarca MERN STACK, esto debido a que en donde me encuentro trabajando, me asignaron a un proyecto en el cual están desarrollando con React principalmente, por lo cual, me encuentro full en esto para poder integrarme al desarrollo del proyecto.
 
 Mi principal objetivo es trabajar en lo que es el desarrollo web, y en un futuro, desarrollo de apps. móvil, junto seguir aprendiendo y practicando, con el fin de lograr ser un buen desarrollador web y profesional.
 

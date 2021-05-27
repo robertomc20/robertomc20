@@ -12,6 +12,8 @@ Mi principal objetivo es trabajar en lo que es el desarrollo web, y en un futuro
 📚 Idiomas
   * Español nativo.
   * Ingles intermedio - avanzado.
+ 
+📫 Contacto: roberto.marihuan.crisostomo@gmail.com 
 
 ⚡ Preferencia de tecnologías / herramientas
   * React
@@ -33,7 +35,7 @@ Mi principal objetivo es trabajar en lo que es el desarrollo web, y en un futuro
   * Mysql
   * Oracle
 
-📫 Contacto: roberto.marihuan.crisostomo@gmail.com
+
 
 <!--
 **robertomc20/robertomc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

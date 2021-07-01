@@ -7,7 +7,7 @@ proyectos(de prácticas) y siguiendo cursos en Udemy.
 
 📚 Actualmente, me encuentro estudiando y practicando lo que abarca MERN STACK, esto debido a que en donde me encuentro trabajando, me asignaron a un proyecto en el cual están desarrollando con React principalmente, por lo cual, me encuentro full en esto para poder integrarme al desarrollo del proyecto.
 
-Mi principal objetivo es trabajar en lo que es el desarrollo web, y en un futuro, desarrollo de apps. móvil, junto seguir aprendiendo y practicando, con el fin de lograr ser un buen desarrollador web y profesional.
+Mi principal objetivo es trabajar en lo que es el desarrollo de software, y en un futuro cercano, mejorar mi ingles, al punto de poder hablar fluidamente sin problemas. Para ello, cuento con una gran motivación y disposición para aprender, trabajar y perfeccionarme en esto, que es lo que me gusta y apasiona.
 
 📚 Idiomas
   * Español nativo.

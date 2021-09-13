@@ -1,6 +1,7 @@
 Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
 
-🌱 Vivo en Santiago, Chile. Titulado del Instituto Duoc UC en el año 2020 de la carrera de Ingeniería Informática, y actualmente, me encuentro trabajando en APIUX, desempeñando como Software Development.
+🌱 Vivo en Santiago, Chile. Titulado del Instituto Duoc UC en el año 2021 de la carrera de Ingeniería Informática. 
+Desde Mayo del 2021, trabajando como Desarrollador de Software en Apiux.
 
 📚 Actualmente, me encuentro trabajando como front-end usando React, y de forma paralela, estudiando y practicando constantemente esta misma junto con nuevas tecnologías.
 
@@ -14,7 +15,6 @@ Mi principal objetivo es trabajar en lo que es el desarrollo de software, y en u
 
 ⚡ Preferencia de tecnologías / herramientas
   * React
-  * Angular
   * JS
   * TS
   * NodeJS
@@ -25,6 +25,7 @@ Mi principal objetivo es trabajar en lo que es el desarrollo de software, y en u
   * CSS
  
 🌱 Conocimientos básicos-medios de otras Tecnologías / Herramientas
+  * Angular
   * Dart
   * Flutter
   * Redux

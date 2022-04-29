@@ -3,8 +3,8 @@ Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
 🌱 Vivo en Santiago, Chile. Titulado del Instituto Duoc UC en el año 2021 de la carrera de Ingeniería Informática. 
 
 🔭 Experiencia Laboral
-  * Desarrollador Front End: React en Apiux, 5 meses, Empresa: Apiux Tecnología.
-  * Desarrollador FullStack: React, NodeJs, NestJs, PostgreSQL, desde Diciembre 2021, hasta la actualidad, Empresa: Enaccion Consultores.
+  * Desarrollador Front End: React, MUI, Bootstrap, Redux - 5 Meses, Empresa: Apiux Tecnología.
+  * Desarrollador FullStack: React, NodeJs, NestJs, PostgreSQL - desde Diciembre 2021, hasta la actualidad, Empresa: Enaccion Consultores.
 
 💬 Mi principal objetivo es trabajar en lo que es el desarrollo de software, y en un futuro cercano, mejorar mi ingles, al punto de poder hablar fluidamente sin problemas. Para ello, cuento con una gran motivación y disposición para aprender, trabajar y perfeccionarme en esto, que es lo que me gusta y apasiona.
 

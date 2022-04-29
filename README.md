@@ -1,43 +1,34 @@
 Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
 
 🌱 Vivo en Santiago, Chile. Titulado del Instituto Duoc UC en el año 2021 de la carrera de Ingeniería Informática. 
-Desde Mayo del 2021, trabajando como Desarrollador de Software en Apiux.
 
-📚 Actualmente, me encuentro trabajando como front-end usando React, y de forma paralela, estudiando y practicando constantemente esta misma junto con nuevas tecnologías.
+🔭 Experiencia Laboral
+  * Desarrollador Front End: React en Apiux, 5 meses, Empresa: Apiux Tecnología.
+  * Desarrollador FullStack: React, NodeJs, NestJs, PostgreSQL, desde Diciembre 2021, hasta la actualidad, Empresa: Enaccion Consultores.
 
-Mi principal objetivo es trabajar en lo que es el desarrollo de software, y en un futuro cercano, mejorar mi ingles, al punto de poder hablar fluidamente sin problemas. Para ello, cuento con una gran motivación y disposición para aprender, trabajar y perfeccionarme en esto, que es lo que me gusta y apasiona.
+💬 Mi principal objetivo es trabajar en lo que es el desarrollo de software, y en un futuro cercano, mejorar mi ingles, al punto de poder hablar fluidamente sin problemas. Para ello, cuento con una gran motivación y disposición para aprender, trabajar y perfeccionarme en esto, que es lo que me gusta y apasiona.
 
 📚 Idiomas
   * Español nativo.
   * Ingles intermedio - avanzado.
  
-📫 Contacto: roberto.marihuan.crisostomo@gmail.com 
+📫 Contacto 
+  * Correo: roberto.marihuan.crisostomo@gmail.com 
+  * Web personal: En desarrollo...
 
 ⚡ Preferencia de tecnologías / herramientas
   * React
+  * Material UI
+  * Bootstrap
   * JS
   * TS
   * NodeJS
+  * NestJs
+  * Express
   * PostgreSQL
   * MongoDB
-  * Express
   * HTML
   * CSS
- 
-🌱 Conocimientos básicos-medios de otras Tecnologías / Herramientas
-  * Angular
-  * Dart
-  * Flutter
-  * Redux
-  * Jira
-  * Camunda
-  * Python
-  * Sql Server
-  * Mysql
-  * Oracle
-
-
-
 <!--
 **robertomc20/robertomc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

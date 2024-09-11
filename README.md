@@ -1,4 +1,4 @@
-Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 23 años.
+Hola, me presento, mi nombre es Roberto Marihuán Crisóstomo, tengo 26 años.
 
 🌱 Vivo en Santiago, Chile. Titulado del Instituto Duoc UC en el año 2021 de la carrera de Ingeniería Informática. 
 
